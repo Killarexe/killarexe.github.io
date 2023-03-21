@@ -1,0 +1,120 @@
+body{
+    font-family: Monaco, "Courier New", sans-serif;
+    padding: 0;
+    margin: 0;
+    background: rgb(58, 58, 58);
+}
+
+header{
+    background-image: linear-gradient(to right, green, lightgreen);
+    display: inline-flex;
+    flex-direction: row;
+    padding-bottom: 1vh;
+    width: 100%;
+}
+
+header img{
+    width: clamp(12rem, 25vw, 50rem);
+    height: min-content;
+    align-self: center;
+    padding-right: clamp(100px, calc(30% / 2rem + 10px), 35vw);
+}
+
+header nav{
+    align-self: center;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding-right: 2vh;
+}
+
+header nav ul li a{
+    font-weight: bold;
+    font-size: clamp(1rem, 2vw, 3rem);
+    text-decoration: none;
+    color: black;
+}
+
+header nav ul li a:hover{
+    text-decoration: underline;
+}
+
+section{
+    padding: 0;
+    margin: 0;
+    padding-bottom: 20vh;
+}
+
+section#about{
+    background-image: linear-gradient(to bottom, green, 90%, rgb(26, 194, 166));
+}
+
+section#projects{
+    background-image: linear-gradient(to bottom, rgb(26, 194, 166), 90%, black);
+}
+
+section#contact{
+    background-color: black;
+    color: white;
+}
+
+section ul{
+    margin: 0;
+    padding: 0;
+}
+
+section ul div{
+    padding: 0;
+    margin: 0;
+    width: 48%;
+    display: inline-block;
+}
+
+section ul div.text{
+    font-size: clamp(0.5rem, 2vw, 3rem);
+}
+
+@media screen and (max-width: 440px){
+    section ul div{
+        display: inline;
+    }
+
+    section ul div.text{
+        font-size: 1rem;
+    }
+    
+    section ul div.text p{
+        margin: 0;
+        padding: 0;
+    }
+}
+
+section ul div.image{
+    margin-left: 1%;
+}
+
+section ul div.image img{
+    height: min-content;
+    width: 100%;
+}
+
+footer{
+    padding-bottom: 12%;
+    color: white;
+}
+
+footer nav{
+    align-self: center;
+    padding-left: 25%;
+    padding-top: 6.25%;
+}
+
+footer nav ul li{
+    display: inline-block;
+    padding-right: 8vh;
+}
+
+footer nav ul li img{
+    width: clamp(32px, 64px, 128px);
+}
