@@ -1,0 +1,57 @@
+#menu {
+  height: 100vh;
+  display: flex;
+  align-items: center; 
+  margin-left: -10vw;
+}
+
+.menu-item {
+  color: white;
+
+  font-size: clamp(1rem, 4vw, 4rem);
+  font-family: "Ibarra Real Nova", serif;
+
+  display: block;
+  text-decoration: none;
+
+  padding: clamp(1rem, 2vw, 4rem);
+  transition: opacity 400ms ease;
+}
+
+#menu-items {
+  margin-left: clamp(4rem, 10vw, 48rem);
+  position: relative;
+  z-index: 2;
+}
+
+#menu-items:hover > .menu-item {
+  opacity: 0.3;
+}
+
+#menu-items:hover > .menu-item:hover {
+  opacity: 1;
+}
+
+#menu-background-pattern {
+  height: 100vh;
+  width: 25vw;
+
+  background-image: radial-gradient(
+    rgba(255, 255, 255, 0.1) 9%,
+    transparent 9%
+  );
+  background-position: 0% 0%;
+  background-size: 12vmin 12vmin;
+
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+
+  transition: opacity 800ms ease, background-size 800ms ease, background-position 800ms ease;
+} 
+
+#menu-items:hover ~ #menu-background-pattern {
+  background-size: 11vmin 11vmin;
+  opacity: 0.5;
+}
