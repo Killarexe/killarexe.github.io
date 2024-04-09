@@ -1,4 +1,49 @@
+@font-face {
+  font-family: TFOTFont;
+  src: url("../assets/fonts/3270-Regular.otf")
+}
+
 body {
+  font-family: TFOTFont;
+  color: white;
   background-color: rgb(20, 20, 20);
   margin: 0px;
+  display: inline;
+}
+
+*.fixed {
+  position: fixed;
+}
+
+*.centered {
+  position: center;
+}
+
+h1 {
+  font-size: 4vw;
+}
+
+h2 {
+  font-size: 2vw;
+}
+
+div.summary-page {
+  background-color: blue;
+  padding-left: 2vw;
+  min-width: 20vw;
+  padding-bottom: 100vh;
+}
+
+div.text-page {
+  background-color: red;
+  margin-bottom: 0px;
+  margin-left: 22vw;
+  min-width: 10vh;
+  padding-bottom: 100vh;
+
+}
+
+footer {
+  background-color: rgb(20, 20, 20);
+  margin-left: 22vw;
 }
