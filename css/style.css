@@ -23,8 +23,20 @@ h1 {
   font-size: 4vw;
 }
 
-h2 {
+a.big-link {
   font-size: 2vw;
+  color: inherit;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+hr.solid {
+  border-top: 10px solid;
+}
+
+@keyframes summary-page-show {
+  from { margin-left: 100%; }
+  to { margin-left: 0%; }
 }
 
 div.summary-page {
@@ -32,15 +44,24 @@ div.summary-page {
   padding-left: 2vw;
   min-width: 20vw;
   padding-bottom: 100vh;
+  animation-name: summary-page-show;
+  animation-duration: 1s;
+}
+
+@keyframes text-page-show {
+  from { margin-left: 0vw; }
+  to { margin-left: 22vw; }
 }
 
 div.text-page {
   background-color: red;
   margin-bottom: 0px;
   margin-left: 22vw;
+  padding-top: 0.5vh;
   min-width: 10vh;
   padding-bottom: 100vh;
-
+  animation-name: text-page-show;
+  animation-duration: 1s;
 }
 
 footer {
