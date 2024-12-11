@@ -1,0 +1,17 @@
+title = "Killar.html"
+languageCode = "fr"
+languageName = "Français"
+
+params.displayName = "FR"
+params.isoCode = "fr"
+
+[params.author]
+name = "Killar"
+image = "images/icon.png"
+headline = "Un dev qui touche a tout..."
+bio = "Je suis développeur/codeur en Java, Rust et Godot. Je fait des jeux et des mods Minecraft. Je fais actuellement des études. Et je fait des vidéos YouTube parfois."
+links = [
+  { youtube = "https://youtube.com/@Killarexe" },
+  { bluesky = "https://bsky.app/profile/killarexe.bsky.social" },
+  { github = "https://github.com/Killarexe" }
+]

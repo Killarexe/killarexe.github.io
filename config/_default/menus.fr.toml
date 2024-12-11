@@ -1,0 +1,20 @@
+[[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/Killarexe"
+  weight = 30

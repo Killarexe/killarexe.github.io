@@ -1,0 +1,45 @@
+@font-face {
+  font-family: font;
+  src: url('/fonts/ProFont.ttf');
+}
+
+html {
+  font-family: font;
+  font-size: 12pt;
+}
+
+:root {
+  --color-neutral:        255, 255, 255;
+  --color-neutral-50:     209, 219, 224;
+  --color-neutral-100:    163, 184, 193;
+  --color-neutral-200:    117, 149, 163;
+  --color-neutral-300:    209, 219, 224;
+  --color-neutral-400:    218, 218, 218;
+  --color-neutral-500:    196, 127, 213;
+  --color-neutral-600:    081, 110, 122;
+  --color-neutral-700:    051, 068, 076;
+  --color-neutral-800:    020, 027, 030;
+  --color-neutral-900:    004, 005, 006;
+
+  --color-primary-50:     255,255,255;
+  --color-primary-100:    255,255,255;
+  --color-primary-200:    255,255,255;
+  --color-primary-300:    239,248,238;
+  --color-primary-400:    190,228,182;
+  --color-primary-500:    140,207,126;
+  --color-primary-600:    113,196,96;
+  --color-primary-700:    88,183,68;
+  --color-primary-800:    74,153,57;
+  --color-primary-900:    59,124,46;
+  
+  --color-secondary-50:     255,255,255;
+  --color-secondary-100:    255,255,255;
+  --color-secondary-200:    255,255,255;
+  --color-secondary-300:    236,245,252;
+  --color-secondary-400:    169,211,242;
+  --color-secondary-500:    103,176,232;
+  --color-secondary-600:    68,158,227;
+  --color-secondary-700:    33,139,220;
+  --color-secondary-800:    28,117,185;
+  --color-secondary-900:    23,94,149;
+}

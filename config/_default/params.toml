@@ -1,0 +1,13 @@
+colorScheme = "everblush"
+defaultAppearance = "dark"
+disableImageZoom = true
+
+[header]
+  layout = "fixed-fill"
+
+[homepage]
+  layout = "hero"
+  homepageImage = "hero"
+  showRecent = true
+  showRecentItems = 3
+  cardView = true
