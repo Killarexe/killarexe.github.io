@@ -1,13 +1,3 @@
-@font-face {
-  font-family: font;
-  src: url('/fonts/ProFont.ttf');
-}
-
-html {
-  font-family: font;
-  font-size: 12pt;
-}
-
 :root {
   --color-neutral:        255, 255, 255;
   --color-neutral-50:     209, 219, 224;
