@@ -25,6 +25,6 @@ jobs:
           HUGO_VERSION: 0.88.0
           TARGET_REPO: Killarexe/killarexe.github.io
           TARGET_BRANCH: master
-          TOKEN: ${{ secrets.TOKEN }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HUGO_ARGS: ''
           CNAME: killarexe.github.io
