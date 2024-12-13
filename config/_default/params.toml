@@ -1,6 +1,12 @@
 colorScheme = "everblush"
 defaultAppearance = "dark"
+
 disableImageZoom = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSectiond = ["projects"]
 
 [header]
   layout = "fixed-fill"
@@ -10,4 +16,9 @@ disableImageZoom = true
   homepageImage = "hero"
   showRecent = true
   showRecentItems = 3
+  cardView = true
+
+[list]
+  showHero = true
+  showAuthor = true
   cardView = true
