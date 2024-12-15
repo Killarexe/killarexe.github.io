@@ -1,4 +1,10 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/font.ttf');
+}
+
 :root {
+  font-family: font;
   --color-neutral:        255, 255, 255;
   --color-neutral-50:     209, 219, 224;
   --color-neutral-100:    163, 184, 193;
