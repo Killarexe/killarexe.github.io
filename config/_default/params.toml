@@ -1,7 +1,7 @@
 colorScheme = "everblush"
 defaultAppearance = "dark"
 
-disableImageZoom = true
+disableImageZoom = false
 
 enableSearch = true
 enableCodeCopy = true

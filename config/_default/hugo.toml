@@ -1,2 +1,5 @@
 baseURL = "https://killarexe.github.io"
 languageCode = "en"
+
+[markup.goldmark.renderer]
+  unsafe = true
