@@ -18,4 +18,4 @@ Here is the trailer of this game *(In french)*:
 This is really cringe. Really, really cringe...
 {{< /alert >}}
 
-{{< youtube id="6pgASK2t-GQ" label="Blowfish-tools demo" >}}
+{{< youtube id="6pgASK2t-GQ" label="PokémonMix Trailer" >}}
