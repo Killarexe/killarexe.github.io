@@ -16,7 +16,7 @@ The mod got currently an OST made by me(of course) that also working in progress
 
 ## Screenshots:
 
-{{< carousel images="{https://cdn.modrinth.com/data/FSZZfnxw/images/06f0aaf0bb382fa2cf47aa6f24554f120888b7cb.png, https://cdn.modrinth.com/data/FSZZfnxw/images/076decc555000994c75a885b7c3b4537e45c81b2.png, https://cdn.modrinth.com/data/FSZZfnxw/images/30ae66c3649805cb04a5b2b8be84fb82e563c65c.png}" >}}
+{{< carousel images="{https://cdn.modrinth.com/data/FSZZfnxw/images/06f0aaf0bb382fa2cf47aa6f24554f120888b7cb.png,https://cdn.modrinth.com/data/FSZZfnxw/images/076decc555000994c75a885b7c3b4537e45c81b2.png,https://cdn.modrinth.com/data/FSZZfnxw/images/30ae66c3649805cb04a5b2b8be84fb82e563c65c.png}" >}}
 
 ## Repo
 
