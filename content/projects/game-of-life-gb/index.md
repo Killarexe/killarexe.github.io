@@ -3,7 +3,7 @@ title: "Game of Life GB"
 draft: false
 showDate: true
 showAuthor: true
-date: 2024-01-18T00:00:00Z
+date: 2025-01-18T00:00:00Z
 ---
 
 # About
