@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Killar.html</title><link>https://killarexe.github.io/</link><description>Recent content on Killar.html</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Killar</copyright><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://killarexe.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>New website</title><link>https://killarexe.github.io/posts/new-website/</link><pubDate>Wed, 11 Dec 2024 04:22:31 +0000</pubDate><guid>https://killarexe.github.io/posts/new-website/</guid><description>&lt;h1 id="typeit-0f27cfa838123b24942555d8dc75de08">&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Killar.html</title><link>https://killarexe.github.io/</link><description>Recent content on Killar.html</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Killar</copyright><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://killarexe.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Game of Life GB</title><link>https://killarexe.github.io/projects/game-of-life-gb/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/game-of-life-gb/</guid><description>&lt;h1 class="relative group">About
+&lt;div id="about" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>&lt;strong>Game of Life GB&lt;/strong> is a port of &lt;a href="https://conwaylife.com/" target="_blank">Conway&amp;rsquo;s Game of Life&lt;/a> for the Nintendo Game Boy using &lt;a href="https://github.com/gbdk-2020/gbdk-2020" target="_blank">GBDK&lt;/a> and the &lt;a href="https://github.com/SuperDisk/hUGEDriver" target="_blank">hUGEDriver&lt;/a> for the music.&lt;/p>
+&lt;p>This game gives a 20x18 recursive cell grid with the ability to pause/unpause, edit, clear grid and randomize grid.&lt;/p>
+&lt;div id="gallery-42b5689b76332fd283e515bc3edb8013" class="gallery">
+&lt;img src="feature.png" class="grid-w33" />
+&lt;img src="gallery/1.png" class="grid-w33" />
+&lt;img src="gallery/2.gif" class="grid-w33" />
+&lt;img src="gallery/3.gif" class="grid-w33" />
+&lt;img src="gallery/4.gif" class="grid-w33" />
+&lt;/div>
+&lt;h2 class="relative group">Itch.io
+&lt;div id="itchio" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#itchio" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;iframe frameborder="0" src="https://itch.io/embed/3245115?border_width=5&amp;amp;bg_color=284020&amp;amp;fg_color=88a048&amp;amp;link_color=445434&amp;amp;border_color=486830" width="560" height="175">&lt;a href="https://killarexe.itch.io/game-of-life-gb">Game of Life GB by Killar.exe&lt;/a>&lt;/iframe>
+&lt;h2 class="relative group">Controls
+&lt;div id="controls" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#controls" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A - Put / Remove cell from grid&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/game-of-life-gb/feature.png"/></item><item><title>New website</title><link>https://killarexe.github.io/posts/new-website/</link><pubDate>Wed, 11 Dec 2024 04:22:31 +0000</pubDate><guid>https://killarexe.github.io/posts/new-website/</guid><description>&lt;h1 id="typeit-0f27cfa838123b24942555d8dc75de08">&lt;/h1>
 &lt;script>
 document.addEventListener("DOMContentLoaded", function () {
 new TypeIt("#typeit-0f27cfa838123b24942555d8dc75de08", {
@@ -435,6 +469,7 @@ style="text-decoration-line: none !important;" href="#who-im-i" aria-label="Anch
 &lt;p>
 &lt;figure>
 &lt;img class="my-0 rounded-md" loading="lazy" src="https://avatars.githubusercontent.com/u/69894974?v=4" alt="" />
+&lt;figcaption>Photo by Mr.Tested &amp;amp; Niark&lt;/figcaption>
 &lt;/figure>
 &lt;/p>
 &lt;p>I’m a Java, Godot and Rust dev. I do games/mods projects. I’m currently a french student. I do some Youtube videos.&lt;/p></description></item></channel></rss>
