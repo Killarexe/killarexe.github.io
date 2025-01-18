@@ -1,15 +1,15 @@
 ---
-title: "This website"
+title: "Ce site"
 draft: false
 showDate: true
 showAuthor: true
 date: 2021-12-20T00:00:00Z
 ---
 
-# About
+# A propos
 
-This is simply this website your currently using right now.
+C'est tout simplement le site que vouz visitez en ce moment.
 
-For the curous I use [**Hugo**](https://gohugo.io/) with [**Blowfish**](https://blowfish.page/) to make this website...
+Pour les curieux, j'utilise [**Hugo**](https://gohugo.io/) avec [**Blowfish**](https://blowfish.page/) pour faire ce site.
 
 {{< github repo="Killarexe/killarexe.github.io" >}}

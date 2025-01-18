@@ -6,15 +6,15 @@ showAuthor: true
 date: 2024-07-03T00:00:00Z
 ---
 
-# About 
+# A propos 
 
-A Really simple mod witch enable the player to **Shift Right-Click** on a boat with a chest on the hand to make a Chest Boat.
+Un simple mod Minecraft qu permet au joueur de **Maj Clique Droit** sur un bateau avec un coffre dans la main pour faire un Bateau avec Coffre.
 
-**This mod can work on server-side.**
+**Ce mod peut marcher en server-side.**
 
 # Images
 
-Here how this mod work:
+Voila comment le mod marche:
 
 ![](https://cdn.modrinth.com/data/eV0rTOBa/images/b0098f2037a2838d1de113ce79d79f87951da8a1.gif)
 

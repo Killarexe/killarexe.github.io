@@ -6,34 +6,36 @@ showAuthor: true
 date: 2023-04-28T00:00:00Z
 ---
 
-# About
+# A propos
 
-The SPU *(or Simple Processing Unit)* is a small custom 16-bit CPU I made inspired by the famous 6502.
+Le SPU *(**S**imple **P**rocessing **U**int)* est un petit processeur 16-bit que j'ai fait très inspiré par le processeur 6502.
 
-The main goal of this CPU is to be the easiest CPU to use. The SPU have only **16 instructions** as follows:
+L'objectif principal de ce processeur est d'être un processeur facile à utiliser. Ce processeur a que **16 instructions**.
 
-## SPU Instruction Set
+## Set d'instructions du SPU
 
-| Instruction | Argument   | What it does                                        |
+| Instruction | Argument   | Ce qu'il fait                                        |
 | ----------- | ---------- | --------------------------------------------------- |
-| ADD         | None       | Do X + Y and return the value to X.                 |
-| SUB         | None       | Do X - Y and return the value to X.                 |
-| AND         | None       | Do X & Y and return the value to X.                 |
-| OR          | None       | Do X or Y and return the value to X.                |
-| XOR         | None       | Do X ^ Y and return the value to X.                 |
-| NOT         | None       | Inverse the X register.                             |
-| LDX         | im12/adr12 | Change the value of X.                              |
-| LDY         | im12/adr12 | Change the value of Y.                              |
-| STX         | adr12      | Store the X register to the ram address.            |
-| STY         | adr12      | Store the Y register to the ram address.            |
-| JMP         | adr12      | Jump to the label/address.                          |
-| JIC         | adr12      | Jump to the label/address if the carry flag is set. |
-| JIZ         | adr12      | Jump to the label/address if the zero flag is set.  |
-| HLT         | None       | Stops the proccessor.                               |
+| ADD         | Rien       | Fait X + Y et retourne le resultat à X.                 |
+| SUB         | Rien       | Fait X - Y et retourne le resultat à X.                 |
+| AND         | Rien       | Fait X & Y et retourne le resultat à X.                 |
+| OR          | Rien       | Fait X \| Y et retourne le resultat à X.                |
+| XOR         | Rien       | Fait X ^ Y et retourne le resultat à X.                 |
+| NOT         | Rine       | Inverse le registeur X.                             |
+| LDX         | im12/adr12 | Change la valeur de X.                              |
+| LDY         | im12/adr12 | Change la valeur de Y.                              |
+| STX         | adr12      | Met la valeur du registeur X dans l'adresse ram.            |
+| STY         | adr12      | Met la valeur du registeur X dans l'adresse ram.            |
+| JMP         | adr12      | Sauter au label/adresse.                          |
+| JIC         | adr12      | Sauter au label/adresse si le carry flag est active. |
+| JIZ         | adr12      | Sauter au label/adresse si le zero flag est active.  |
+| HLT         | Rien       | Arrète le proccesseur.                               |
 
 I made an Assembler in Rust and **made the full CPU circuit in Logisim Evolution**. I didn't made an emulator beacause I was too lazy... But it was a cool project to make.
 
-Here is an exemple program witch do the fibonacci sequence:
+J'ai fait un assembleur en rust, et **fait le processeur entier sur Logisim Evolution**. Et j'ai pas d'emulateur car j'avais la flemme... Mais c'était un projet très cool à faire.
+
+Ici un programme d'exemple qui fait la séquance de fibonacci:
 
 ```asm
 /*
@@ -73,7 +75,7 @@ stop:
 
 ```
 
-For the frenchies I made a video about how I made the assembler:
+J'ai fait une vidéo sur YouTube de comment j'ai l'assembleur:
 
 {{< youtube id="s35ix5jCseE" label="SPU Assembler" >}}
 

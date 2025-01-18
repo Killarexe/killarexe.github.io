@@ -7,13 +7,13 @@ showAuthor: true
 date: 2024-10-12T16:19:00Z
 ---
 
-# About
+# A propos
 
-TDEngine is a small CLI 3D engine for the terminal in Rust.
+TDEngine est un petit programme de moteur de rendu 3D sur le termial/cmd fait en Rust.
 
-I've learn recently about *weak projection* and I tried to code it.
+J'ai appris récamment à propos de la *projection faible* ou *weak projection* en anglais, et j'ai essayé de le coder.
 
-TDEngine is able to load .obj files *(not ones with too many triangles)*, and you can turn and zoom around the object.
+TDEngine is capable de charger des modèles .obj *(pas ceux avec beaucoups de triangles)*, et tu peux tourner et zommer autour du modèle.
 
 # Repo
 

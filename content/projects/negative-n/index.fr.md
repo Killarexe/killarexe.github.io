@@ -6,13 +6,13 @@ showAuthor: true
 date: 2020-03-28T00:00:00Z
 ---
 
-# About
+# A propos
 
-**Negative-N is my first Minecraft Mod project.** And for this I used called [**MCreator**](https://mcreator.net/). Witch is a software I still recommend to learn if you want to get into Minecraft Modding if you know nothing about coding.
+**Negative-N est mon premier projet de mod Minecraft.** Et pour faire ceci, j'ai utilisé un logiciel nommée [**MCreator**](https://mcreator.net). Qui est un logiciel que je recommende si vous voulez apprendre le modding Minecraft, si vous savez rien à propos de code.
 
-This Minecraft mod adds a *new universe to Minecraft* and this universe adds mobs, minerals, exploration, adventure, crafting, blocks with interesting properties, technology, decoration, structures, a new mode of survival, nostalgia and beauty and more!
+Ce mod Minecraft ajoute un *autre univers a Minecraft*, et cet univers ajoute des mobs, des minerais, de l'exploration, de l'aventure, et craft des blocks de technologie, decoration, structures, et des propriètés intérésents.
 
-This project got a *Fabric version* but it's totaly uncomplete. *(And will never be finished.)*
+Ce mod a eu une *version Fabric*, mais il est uncomplet. *(Et va être toujours uncomplet)*
 
 ## Screenshots
 
@@ -20,12 +20,12 @@ This project got a *Fabric version* but it's totaly uncomplete. *(And will never
 
 ---
 
-# Main repo
+# Répo principale
 
 {{< github repo="Killarexe/Negative-N-Forge" >}}
 
 ---
 
-# Fabric version repo
+# Répo de la version Fabric
 
 {{< github repo="Killarexe/Negative-N-Fabric" >}}

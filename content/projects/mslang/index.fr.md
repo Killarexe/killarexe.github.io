@@ -6,11 +6,11 @@ showAuthor: true
 date: 2023-02-10T00:00:00Z
 ---
 
-# About
+# A propos
 
-MSLang *(MultiSign Language)* is an iterpreted programming language using Java and the [**Craft Interpreters**](https://craftinginterpreters.com/) book.
+MSLang *(**M**ulti**S**ign **Lang**uage)* est un langage de programmation interprétée fait en Java en utilisant le livre [**Craft Interpreters**](https://craftinginterpreters.com/).
 
-The syntax is identic to the [**Lox programming language**](https://craftinginterpreters.com/the-lox-language.html).
+La syntaxe est similaire au [**langage de programmation Lox**](https://craftinginterpreters.com/the-lox-language.html).
 
 # Repo
 

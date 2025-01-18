@@ -1,20 +1,20 @@
 [[main]]
-  name = "Posts"
+  name = "Postes"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Musics"
+  name = "Musiques"
   pageRef = "musics"
   weight = 10
 
 [[main]]
-  name = "Projects"
+  name = "Projets"
   pageRef = "projects"
   weight = 10
 
 [[main]]
-  name = "About"
+  name = "A propos"
   pageRef = "about"
   weight = 10
 
