@@ -8,10 +8,10 @@ date: 2023-10-29T00:00:00Z
 
 # About
 
-Ball OS is a small bootloader OS witch makes a ball bouncing around.
+Ball OS est un petit système d'exploitation qui fait juste rebondir une balle.
 
-That's it.
+C'est tout.
 
-Repo *(is you're instrested)*:
+Repo *(si vous êtez interésée)*:
 
 {{< github repo="Killarexe/Ball-OS" >}}
