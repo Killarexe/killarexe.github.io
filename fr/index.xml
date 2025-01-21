@@ -137,9 +137,9 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#about" aria-label="Ancre">#&lt;/a>
 &lt;/span>
 &lt;/h1>
-&lt;p>Ball OS is a small bootloader OS witch makes a ball bouncing around.&lt;/p>
-&lt;p>That&amp;rsquo;s it.&lt;/p>
-&lt;p>Repo &lt;em>(is you&amp;rsquo;re instrested)&lt;/em>:&lt;/p>
+&lt;p>Ball OS est un petit système d&amp;rsquo;exploitation qui fait juste rebondir une balle.&lt;/p>
+&lt;p>C&amp;rsquo;est tout.&lt;/p>
+&lt;p>Repo &lt;em>(si vous êtez interésée)&lt;/em>:&lt;/p>
 &lt;a id="github-0f81023a9a8b32284c65f76b284abc6d" target="_blank" href="https://github.com/Killarexe/Ball-OS" class="cursor-pointer">
 &lt;div
 class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">
