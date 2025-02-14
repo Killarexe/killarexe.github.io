@@ -31,8 +31,6 @@ L'objectif principal de ce processeur est d'être un processeur facile à utilis
 | JIZ         | adr12      | Sauter au label/adresse si le zero flag est active.  |
 | HLT         | Rien       | Arrète le proccesseur.                               |
 
-I made an Assembler in Rust and **made the full CPU circuit in Logisim Evolution**. I didn't made an emulator beacause I was too lazy... But it was a cool project to make.
-
 J'ai fait un assembleur en rust, et **fait le processeur entier sur Logisim Evolution**. Et j'ai pas d'emulateur car j'avais la flemme... Mais c'était un projet très cool à faire.
 
 Ici un programme d'exemple qui fait la séquance de fibonacci:

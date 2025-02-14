@@ -8,9 +8,9 @@ date: 2025-01-18T00:00:00Z
 
 # About
 
-**Game of Life GB** is a port of [Conway's Game of Life](https://conwaylife.com/) for the Nintendo Game Boy using [GBDK](https://github.com/gbdk-2020/gbdk-2020) and the [hUGEDriver](https://github.com/SuperDisk/hUGEDriver) for the music.
+**Game of Life GB** est un portage du [Jeu de la vie de Conway](https://conwaylife.com/) pour la GameBoy en utilisant le [GBDK](https://github.com/gbdk-2020/gbdk-2020), et le [hUGEDriver](https://github.com/SuperDisk/hUGEDriver) pour la musique.
 
-This game gives a 20x18 recursive cell grid with the ability to pause/unpause, edit, clear grid and randomize grid.
+Ce jeu donne un cadrillage recursive de cellules de taille 20x18 avec la possiblité de mettre en pause quand on veut, et effacer le cadrillage ou le rendre aléatoire.
 
 {{< gallery >}}
   <img src="feature.png" class="grid-w33" />
@@ -26,15 +26,13 @@ This game gives a 20x18 recursive cell grid with the ability to pause/unpause, e
 
 ## Controls
 
-A - Put / Remove cell from grid
+A - Mettre / Enlever une cellule du cadrillage
 
-B - Clear the grid
+B - Effacer le cadrillage
 
-Start - Pause/Unpause the simulation
+Select - Rendre aléatoire le cadrillage
 
-Select - Randomize the grid
-
-Directional Pad - Moves the cursor on the grid when paused
+Directional Pad - Bouge le curseur quand la simulation est en pause.
 
 ## Repo
 

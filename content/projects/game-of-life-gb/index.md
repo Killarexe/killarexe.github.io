@@ -28,11 +28,9 @@ This game gives a 20x18 recursive cell grid with the ability to pause/unpause, e
 
 A - Put / Remove cell from grid
 
-B - Clear the grid
-
 Start - Pause/Unpause the simulation
 
-Select - Randomize the grid
+Select - Go to settings menu
 
 Directional Pad - Moves the cursor on the grid when paused
 

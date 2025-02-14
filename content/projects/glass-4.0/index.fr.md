@@ -8,11 +8,11 @@ date: 2024-04-16T00:00:00Z
 
 # About
 
-This is one of my crasyset project I've made.
+Ce projet est celui le plus fou que j'ai fait.
 
-Glass 4.0 is a video game library for SFML made by [**CodeNoodles**](https://www.youtube.com/@CodeNoodles) for his projects. Unfortunately, [**the official repo**](https://github.com/OfficialCodeNoodles/Glass-4.0) of this library include the header files and the libraries files for Windows only. So made this library open-source using only the header files. *(With the help of AI)*
+Glass 4.0 est une bibliothèque de code pour les jeux utilisant SFML fait par le YouTubeur [**CodeNoodles**](https://www.youtube.com/@CodeNoodles). Malheureusement, le [**répertoire officiel**](https://github.com/OfficialCodeNoodles/Glass-4.0) de cette bibliothèque a seulement les fichiers têtes et la bibliothèque compilée pour Windows. Ducoup avec les fichiers têtes *(et l'IA)* j'ai rendu la bibliothèque open-source.
 
-I've never touched SFML and C++ before so it was a pretty cool and refreshing project!
+J'avais jamais utilisé SFML et C++ avant, donc c'était un projet plutôt cool!
 
 ## Repo
 
