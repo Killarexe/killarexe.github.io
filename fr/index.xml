@@ -115,14 +115,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#about" aria-label="Ancre">#&lt;/a>
 &lt;/span>
 &lt;/h1>
-&lt;p>Crystals is a small mod avaliable for &lt;strong>Forge and Fabric&lt;/strong> witch adds new crystals witch generates on top of ores like: Redstone, Lapis, Emerald and Diamond.&lt;/p>
-&lt;p>Each crystal drops the corresponding mineral (e.g. diamond crystals drops diamonds).&lt;/p>
-&lt;h1 class="relative group">Preview
-&lt;div id="preview" class="anchor">&lt;/div>
+&lt;p>Crystals est un petit mod Minecraft pour &lt;strong>Forge, NeoForge &amp;amp; Fabric&lt;/strong> qui ajoute des crystaux qui se genèrent au dessus des minerais comme: la Redstone, le Lapis, l&amp;rsquo;Emeralde et le Diamand.&lt;/p>
+&lt;p>Chaque crystal drops le minerai correspondant (ex: les crystaux de dimanand drop des diamands)&lt;/p>
+&lt;h1 class="relative group">Screenshot
+&lt;div id="screenshot" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#preview" aria-label="Ancre">#&lt;/a>
+style="text-decoration-line: none !important;" href="#screenshot" aria-label="Ancre">#&lt;/a>
 &lt;/span>
 &lt;/h1>
 &lt;p>
@@ -170,8 +170,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#about" aria-label="Ancre">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>Copper Extension is a simple Minecraft Mod for &lt;strong>Forge and Fabric&lt;/strong> witch adds a few features to the copper set&amp;hellip;&lt;/p>
-&lt;p>The major feature is the rusty copper ingots. &lt;strong>Copper ingots can now be oxidixed in the inventory or even when you dropped it. And also they can be waxed&lt;/strong> using beehives or honeycombs&amp;hellip;&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/copper-extension/feature.png"/></item><item><title>SPU</title><link>https://killarexe.github.io/fr/projects/spu/</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/spu/</guid><description>&lt;h1 class="relative group">A propos
+&lt;p>Copper Extension est un mod Minecraft très simple pour &lt;strong>Forge, NeoForge &amp;amp; Fabric&lt;/strong> qui ajoute quelques avancées au cuivre.&lt;/p>
+&lt;p>L&amp;rsquo;avancé principale est les lingots de cuivre rouillé. &lt;strong>Les lingots de cuivre peuvent maintenant rouiller dans votre inventaire ou quand il est drop dans la nature. Mais il peut être aussi ciré&lt;/strong> en utilisant les nids d&amp;rsquo;abeilles ou du rayon du miel.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/copper-extension/feature.png"/></item><item><title>SPU</title><link>https://killarexe.github.io/fr/projects/spu/</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/spu/</guid><description>&lt;h1 class="relative group">A propos
 &lt;div id="a-propos" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -313,7 +313,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#about" aria-label="Ancre">#&lt;/a>
 &lt;/span>
 &lt;/h1>
-&lt;p>Donut3DS is a small Nintendo 3DS Homebrew witch is a port of &lt;a href="https://www.gamebrew.org/wiki/Wii_Donut" target="_blank">&lt;strong>Wii Donut&lt;/strong>&lt;/a>. This app is just a spining 3D ASCII Donut with a background music called &lt;em>Addiction&lt;/em> by Jogeir Liljedahl.&lt;/p>
+&lt;p>Donut3DS est un petit homebrew pour la Nintendo 3DS qui est un portage de &lt;a href="https://www.gamebrew.org/wiki/Wii_Donut" target="_blank">&lt;strong>Wii Donut&lt;/strong>&lt;/a>. Cet homebrew est juste un donut en 3D rendu en caratères ASCII qui tourne avec une musique de fond applée &lt;em>Addiction&lt;/em> de Jogeir Liljedahl.&lt;/p>
 &lt;h2 class="relative group">Repo
 &lt;div id="repo" class="anchor">&lt;/div>
 &lt;span
@@ -379,9 +379,9 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#about" aria-label="Ancre">#&lt;/a>
 &lt;/span>
 &lt;/h1>
-&lt;p>&lt;strong>Little Rage is one of my biggest project in my entire carieer.&lt;/strong>&lt;/p>
-&lt;p>This game is a Solo platformer game based on speedrun and race. Made with the Godot game engine.&lt;/p>
-&lt;p>&lt;strong>You can unlock skins, hats and more&lt;/strong> by trying to make your best time in the levels. Also &lt;strong>you can share and make levels with the integrated level editor in the game!&lt;/strong>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/little-rage/feature.png"/></item><item><title>Dimensional Expansion</title><link>https://killarexe.github.io/fr/projects/dimensional-expansion/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/dimensional-expansion/</guid><description>&lt;p>&lt;a href="">
+&lt;p>&lt;strong>Little Rage est un des mes plus grand projet de toute ma vie.&lt;/strong>&lt;/p>
+&lt;p>Ce jeu est un platformeur 2D basée sur le speedrun et la course. Fait avec le moteur de jeu Godot.&lt;/p>
+&lt;p>&lt;strong>Vous pouvez débloquez des skins, chapeaux et plus&lt;/strong> tout en essayant de battre vos records dans les niveaux. Aussi, &lt;strong>vous pouvez créer et partager vos propres niveaux avec l&amp;rsquo;éditeur de niveau intégrée dans le jeu!&lt;/strong>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/little-rage/feature.png"/></item><item><title>Dimensional Expansion</title><link>https://killarexe.github.io/fr/projects/dimensional-expansion/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/dimensional-expansion/</guid><description>&lt;p>&lt;a href="">
 &lt;figure>
 &lt;img class="my-0 rounded-md" loading="lazy" src="https://github.com/Killarexe/Dimensional-Expansion/raw/main/src/main/resources/logo.png" alt="" />
 &lt;/figure>
@@ -394,8 +394,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#about" aria-label="Ancre">#&lt;/a>
 &lt;/span>
 &lt;/h1>
-&lt;p>Dimensional Expansion is a Minecraft mod avaliable on Forge(maybe Fabric later) who adds new tools and weapons for your gears, blocks and for builders, items with special poperities and the main feature that is currenly in progress is a new dimension with dungeons, villages and other structures.&lt;/p>
-&lt;p>The mod got currently an OST made by me(of course) that also working in progress but you can see some preview &lt;a href="https://soundcloud.com/killarexe" target="_blank">&lt;strong>here&lt;/strong>&lt;/a>.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/dimensional-expansion/feature.png"/></item><item><title>Negative-N</title><link>https://killarexe.github.io/fr/projects/negative-n/</link><pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/negative-n/</guid><description>&lt;h1 class="relative group">A propos
+&lt;p>Dimensional Expansion est un mod Minecraft disponible sur Forge qui ajoute des nouveaux outils et armes pour votre arsenal, des blocs pour les builders, des items avec des proprietés spéciaux, et l&amp;rsquo;ajout principale qui est en cours de devlopement est la nouvelle dimension avec des dungeons, villages et d&amp;rsquo;autres structures.&lt;/p>
+&lt;p>Le mod a actuellement un OST fait par moi. C&amp;rsquo;est aussi en dévlopement mais vous pouvez écouter le début &lt;a href="https://soundcloud.com/killarexe" target="_blank">&lt;strong>ici&lt;/strong>&lt;/a>.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/dimensional-expansion/feature.png"/></item><item><title>Negative-N</title><link>https://killarexe.github.io/fr/projects/negative-n/</link><pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/negative-n/</guid><description>&lt;h1 class="relative group">A propos
 &lt;div id="a-propos" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
