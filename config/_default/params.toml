@@ -6,7 +6,7 @@ disableImageZoom = false
 enableSearch = true
 enableCodeCopy = true
 
-mainSectiond = ["projects"]
+mainSections = ["projects"]
 
 [header]
   layout = "fixed-fill"

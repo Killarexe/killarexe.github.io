@@ -4,6 +4,7 @@ languageName = "Français"
 
 params.displayName = "FR"
 params.isoCode = "fr"
+params.rtl = false
 
 [params.author]
 name = "Killar"

@@ -10,13 +10,13 @@ date: 2021-03-23T00:00:00Z
 
 # About
 
-**Little Rage is one of my biggest project in my entire carieer.**
+**Little Rage est un des mes plus grand projet de toute ma vie.**
 
-This game is a Solo platformer game based on speedrun and race. Made with the Godot game engine.
+Ce jeu est un platformeur 2D basée sur le speedrun et la course. Fait avec le moteur de jeu Godot.
 
-**You can unlock skins, hats and more** by trying to make your best time in the levels. Also **you can share and make levels with the integrated level editor in the game!**
+**Vous pouvez débloquez des skins, chapeaux et plus** tout en essayant de battre vos records dans les niveaux. Aussi, **vous pouvez créer et partager vos propres niveaux avec l'éditeur de niveau intégrée dans le jeu!**
 
-This game took a long path to finish. First is went from Unity to a custom game engine, to Godot.
+Ce jeu à pris beaucoup de temps a finir. D'abord, sa a commencé avec Unity à un moteur de jeu crée par moi même à finalement Godot.
 
 ## Screenshots
 
@@ -24,22 +24,22 @@ This game took a long path to finish. First is went from Unity to a custom game 
 
 ---
 
-## Download/Play
+## Télécharger/Jouer
 
 <iframe frameborder="0" src="https://itch.io/embed/967818?bg_color=228d8a&amp;fg_color=ffffff&amp;link_color=5bfa74&amp;border_color=bc6a27" width="552" height="167"><a href="https://killarexe.itch.io/little-rage">Little Rage by Killar.exe</a></iframe>
 
-## Current repo
+## Le repo actuelle
 
 {{< github repo="Killarexe/Little-Rage" >}}
 
 ---
 
-## Unity version (2021) repo
+## Le repo de la version Unity (2021)
 
 {{< github repo="Killarexe/LittleRage-OLD-Unity" >}}
 
 ---
 
-## The custom Game Engine repo
+## Le repo du moteur de jeu customizé
 
 {{< github repo="Killarexe/Little-Rage-Engine" >}}

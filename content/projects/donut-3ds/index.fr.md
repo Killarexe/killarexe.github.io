@@ -8,7 +8,7 @@ date: 2021-12-28T00:00:00Z
 
 # About
 
-Donut3DS is a small Nintendo 3DS Homebrew witch is a port of [**Wii Donut**](https://www.gamebrew.org/wiki/Wii_Donut). This app is just a spining 3D ASCII Donut with a background music called *Addiction* by Jogeir Liljedahl.
+Donut3DS est un petit homebrew pour la Nintendo 3DS qui est un portage de [**Wii Donut**](https://www.gamebrew.org/wiki/Wii_Donut). Cet homebrew est juste un donut en 3D rendu en caratères ASCII qui tourne avec une musique de fond applée *Addiction* de Jogeir Liljedahl.
 
 ## Repo
 

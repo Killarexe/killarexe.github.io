@@ -10,11 +10,11 @@ date: 2024-01-03T00:00:00Z
 
 # About
 
-Crystals is a small mod avaliable for **Forge and Fabric** witch adds new crystals witch generates on top of ores like: Redstone, Lapis, Emerald and Diamond.
+Crystals est un petit mod Minecraft pour **Forge, NeoForge & Fabric** qui ajoute des crystaux qui se genèrent au dessus des minerais comme: la Redstone, le Lapis, l'Emeralde et le Diamand.
 
-Each crystal drops the corresponding mineral (e.g. diamond crystals drops diamonds).
+Chaque crystal drops le minerai correspondant (ex: les crystaux de dimanand drop des diamands)
 
-# Preview
+# Screenshot 
 
 ![](https://cdn.modrinth.com/data/XiL4u4VY/images/194bb93ede1ea03f8ff1068fa29ed2579ad7736e.png)
 

@@ -10,9 +10,9 @@ date: 2021-03-05T00:00:00Z
 
 # About:
 
-Dimensional Expansion is a Minecraft mod avaliable on Forge(maybe Fabric later) who adds new tools and weapons for your gears, blocks and for builders, items with special poperities and the main feature that is currenly in progress is a new dimension with dungeons, villages and other structures.
+Dimensional Expansion est un mod Minecraft disponible sur Forge qui ajoute des nouveaux outils et armes pour votre arsenal, des blocs pour les builders, des items avec des proprietés spéciaux, et l'ajout principale qui est en cours de devlopement est la nouvelle dimension avec des dungeons, villages et d'autres structures.
 
-The mod got currently an OST made by me(of course) that also working in progress but you can see some preview [**here**](https://soundcloud.com/killarexe).
+Le mod a actuellement un OST fait par moi. C'est aussi en dévlopement mais vous pouvez écouter le début [**ici**](https://soundcloud.com/killarexe).
 
 ## Screenshots:
 

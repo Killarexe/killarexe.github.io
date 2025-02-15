@@ -10,11 +10,11 @@ date: 2023-08-28T00:00:00Z
 
 ## About 
 
-Copper Extension is a simple Minecraft Mod for **Forge and Fabric** witch adds a few features to the copper set...
+Copper Extension est un mod Minecraft très simple pour **Forge, NeoForge & Fabric** qui ajoute quelques avancées au cuivre.
 
-The major feature is the rusty copper ingots. **Copper ingots can now be oxidixed in the inventory or even when you dropped it. And also they can be waxed** using beehives or honeycombs...
+L'avancé principale est les lingots de cuivre rouillé. **Les lingots de cuivre peuvent maintenant rouiller dans votre inventaire ou quand il est drop dans la nature. Mais il peut être aussi ciré** en utilisant les nids d'abeilles ou du rayon du miel.
 
-## Preview
+## Screenshot
 
 ![All copper types](https://cdn.modrinth.com/data/11Hgyyey/images/473c91f86acc198acb234e98c674bfc77049ce5d.png)
 

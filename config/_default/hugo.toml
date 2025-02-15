@@ -1,5 +1,10 @@
 baseURL = "https://killarexe.github.io"
-languageCode = "en"
+defaultContentLanguage = "en"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[sitemap]
+  changefreq = 'always'
+  filename = 'sitemap.xml'
+  priority = 0.5
