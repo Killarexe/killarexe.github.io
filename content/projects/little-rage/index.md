@@ -43,3 +43,7 @@ This game took a long path to finish. First is went from Unity to a custom game 
 ## The custom Game Engine repo
 
 {{< github repo="Killarexe/Little-Rage-Engine" >}}
+
+## The OST of the Game
+
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=2242580511/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://killarexe.bandcamp.com/album/little-rage-ost">Little Rage OST by Killar</a></iframe>

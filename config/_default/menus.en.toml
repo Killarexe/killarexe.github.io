@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Musics"
-  pageRef = "musics"
+  url = "https://killarexe.bandcamp.com"
   weight = 10
 
 [[main]]

@@ -43,3 +43,7 @@ Ce jeu à pris beaucoup de temps a finir. D'abord, sa a commencé avec Unity à 
 ## Le repo du moteur de jeu customizé
 
 {{< github repo="Killarexe/Little-Rage-Engine" >}}
+
+## L'OST du jeu
+
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=2242580511/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://killarexe.bandcamp.com/album/little-rage-ost">Little Rage OST by Killar</a></iframe>
