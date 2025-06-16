@@ -11,10 +11,6 @@ draft: false
 New website!
 {{< /typeit >}}
 
-{{< alert >}}
-**Warning!** This post is not finished!
-{{< /alert >}}
-
 **Hello everyone!**
 
 Finally, after 6 months, I'm makeing this time a *good* and *clean* website...
