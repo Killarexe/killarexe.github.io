@@ -4,6 +4,7 @@ draft: false
 showDate: true
 showAuthor: true
 date: 2025-01-18T00:00:00Z
+featured: true
 ---
 
 # About

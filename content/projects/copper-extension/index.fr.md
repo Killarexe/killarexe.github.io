@@ -4,6 +4,7 @@ draft: false
 showDate: true
 showAuthor: true
 date: 2023-08-28T00:00:00Z
+featured: true
 ---
 
 ![Copper Extension Banner](https://i.imgur.com/zsxTPUs.png)

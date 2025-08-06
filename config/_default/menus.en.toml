@@ -1,9 +1,4 @@
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
-  weight = 10
-
-[[main]]
   name = "Musics"
   url = "https://killarexe.bandcamp.com"
   weight = 10

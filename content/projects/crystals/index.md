@@ -4,6 +4,7 @@ draft: false
 showDate: true
 showAuthor: true
 date: 2024-01-03T00:00:00Z
+featured: true
 ---
 
 ![](https://raw.githubusercontent.com/Killarexe/Crystals/master/common/src/main/resources/assets/crystals/title.png)

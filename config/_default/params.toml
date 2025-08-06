@@ -12,10 +12,10 @@ mainSections = ["projects"]
   layout = "fixed-fill"
 
 [homepage]
-  layout = "hero"
+  layout = "custom"
   homepageImage = "hero"
-  showRecent = true
-  showRecentItems = 3
+  showFeatured = true
+  showFeaturedItems = 6
   cardView = true
 
 [list]

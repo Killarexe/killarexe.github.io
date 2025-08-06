@@ -4,6 +4,7 @@ draft: false
 showDate: true
 showAuthor: true
 date: 2025-01-18T00:00:00Z
+featured: true
 ---
 
 # About
@@ -13,11 +14,11 @@ date: 2025-01-18T00:00:00Z
 This game gives a 20x18 recursive cell grid with the ability to pause/unpause, edit, clear grid and randomize grid.
 
 {{< gallery >}}
-  <img src="feature.png" class="grid-w33" />
-  <img src="gallery/1.png" class="grid-w33" />
-  <img src="gallery/2.gif" class="grid-w33" />
-  <img src="gallery/3.gif" class="grid-w33" />
-  <img src="gallery/4.gif" class="grid-w33" />
+  <img src="feature.png" class="grid-w50" />
+  <img src="gallery/1.png" class="grid-w50" />
+  <img src="gallery/2.gif" class="grid-w50" />
+  <img src="gallery/3.gif" class="grid-w50" />
+  <img src="gallery/4.gif" class="grid-w50" />
 {{< /gallery >}}
 
 ## Itch.io
