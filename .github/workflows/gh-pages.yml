@@ -42,9 +42,3 @@ jobs:
         # test_mode: true <<enable to run a few verification tests before your first live run>>
 
         # <<lots of other options!>>
-
-    - name: Check if new build was made
-      if: steps.build.outputs.was_new_build_created == 'true'
-      run: echo "Build created!"
-      if: steps.build.outputs.was_new_build_created == 'false'
-      run: echo "Failed to build."
