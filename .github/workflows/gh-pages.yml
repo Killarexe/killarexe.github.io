@@ -1,5 +1,7 @@
 # .github/workflows/gh-pages.yml
 
+name: Build website
+
 on:
   push:
     branches:
