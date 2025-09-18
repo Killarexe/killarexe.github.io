@@ -13,6 +13,8 @@ featured: true
 
 Dimensional Expansion is a Minecraft mod avaliable on Forge(maybe Fabric later) who adds new tools and weapons for your gears, blocks and for builders, items with special poperities and the main feature that is currenly in progress is a new dimension with dungeons, villages and other structures.
 
+This is my second Minecraft mod. And I wanted to really learn Minecraft modding.
+
 The mod got currently an OST made by me(of course) that also working in progress but you can see some preview [**here**](https://soundcloud.com/killarexe).
 
 ## Screenshots:

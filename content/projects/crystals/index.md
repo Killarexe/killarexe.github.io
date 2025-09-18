@@ -13,6 +13,8 @@ featured: true
 
 Crystals is a small mod avaliable for **Forge and Fabric** witch adds new crystals witch generates on top of ores like: Redstone, Lapis, Emerald and Diamond.
 
+I wanted to create an other Minecraft mod but the mod needed to not affect that much the gameplay. So I thought why not add some useful decorations to generated ores.
+
 Each crystal drops the corresponding mineral (e.g. diamond crystals drops diamonds).
 
 # Preview

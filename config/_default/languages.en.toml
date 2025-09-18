@@ -9,6 +9,5 @@ headline = "A dev who touch at anything..."
 bio = "I'm a Java, Godot and Rust dev. I do games/mods projects. I'm currently a french student. I do some Youtube videos."
 links = [
   { youtube = "https://youtube.com/@Killarexe" },
-  { bluesky = "https://bsky.app/profile/killarexe.bsky.social" },
   { github = "https://github.com/Killarexe" }
 ]

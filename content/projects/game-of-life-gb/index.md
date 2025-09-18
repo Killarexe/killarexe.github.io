@@ -13,6 +13,9 @@ featured: true
 
 This game gives a 20x18 recursive cell grid with the ability to pause/unpause, edit, clear grid and randomize grid.
 
+Thanks to this project, I've learned how to make games structures and hardware based optimizations.
+And I always wanted to port something for the Game Boy.
+
 {{< gallery >}}
   <img src="feature.png" class="grid-w50" />
   <img src="gallery/1.png" class="grid-w50" />
