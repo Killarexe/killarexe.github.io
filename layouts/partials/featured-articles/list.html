@@ -1,5 +1,0 @@
-<section class="space-y-10 w-full">
-  {{ range where .Site.RegularPages "Params.featured" "eq" true }}
-    {{ partial "article-link/simple.html" . }}
-  {{ end }}
-</section>

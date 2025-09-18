@@ -1,8 +1,0 @@
-baseURL = 'https://killarexe.github.io'
-languageCode = 'en-us'
-title = 'Killar.html'
-
-[params]
-  subtitle = "Killar's website"
-  [params.contact]
-    email = "killar.exe.pro@gmail.com"

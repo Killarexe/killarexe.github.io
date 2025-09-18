@@ -1,7 +1,0 @@
-<div class="relative w-screen max-w-[1600px] px-[30px] left-[calc(max(-50vw,-800px)+50%)]">
-  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
-    {{ range where .Site.RegularPages "Params.featured" "eq" true }}
-      {{ partial "article-link/card.html" . }}
-    {{ end }}
-  </section>
-</div>

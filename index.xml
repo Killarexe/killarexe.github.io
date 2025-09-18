@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Killar.html</title><link>https://killarexe.github.io/</link><description>Recent content on Killar.html</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Killar</copyright><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://killarexe.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Game of Life GB</title><link>https://killarexe.github.io/projects/game-of-life-gb/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/game-of-life-gb/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Game of Life GB&lt;/strong&gt; is a port of &lt;a href="https://conwaylife.com/" target="_blank"&gt;Conway&amp;rsquo;s Game of Life&lt;/a&gt; for the Nintendo Game Boy using &lt;a href="https://github.com/gbdk-2020/gbdk-2020" target="_blank"&gt;GBDK&lt;/a&gt; and the &lt;a href="https://github.com/SuperDisk/hUGEDriver" target="_blank"&gt;hUGEDriver&lt;/a&gt; for the music.&lt;/p&gt;
+&lt;p&gt;This game gives a 20x18 recursive cell grid with the ability to pause/unpause, edit, clear grid and randomize grid.&lt;/p&gt;
+&lt;div id="gallery-42b5689b76332fd283e515bc3edb8013" class="gallery"&gt;
+&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/feature.png" class="grid-w50" /&gt;
+&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/gallery/1.png" class="grid-w50" /&gt;
+&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/gallery/2.gif" class="grid-w50" /&gt;
+&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/gallery/3.gif" class="grid-w50" /&gt;
+&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/gallery/4.gif" class="grid-w50" /&gt;
+&lt;/div&gt;
+&lt;h2 class="relative group"&gt;Itch.io
+&lt;div id="itchio" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#itchio" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;iframe frameborder="0" src="https://itch.io/embed/3245115?border_width=5&amp;amp;bg_color=284020&amp;amp;fg_color=88a048&amp;amp;link_color=445434&amp;amp;border_color=486830" width="560" height="175"&gt;&lt;a href="https://killarexe.itch.io/game-of-life-gb"&gt;Game of Life GB by Killar.exe&lt;/a&gt;&lt;/iframe&gt;
+&lt;h2 class="relative group"&gt;Controls
+&lt;div id="controls" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#controls" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;A - Put / Remove cell from grid&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/game-of-life-gb/feature.png"/></item><item><title>TDEngine</title><link>https://killarexe.github.io/projects/tdengine/</link><pubDate>Sat, 12 Oct 2024 16:19:00 +0000</pubDate><guid>https://killarexe.github.io/projects/tdengine/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;TDEngine is a small CLI 3D engine for the terminal in Rust.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve learn recently about &lt;em&gt;weak projection&lt;/em&gt; and I tried to code it.&lt;/p&gt;
+&lt;p&gt;TDEngine is able to load .obj files &lt;em&gt;(not ones with too many triangles)&lt;/em&gt;, and you can turn and zoom around the object.&lt;/p&gt;
+&lt;h1 class="relative group"&gt;Repo
+&lt;div id="repo" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#repo" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;div class="github-card-wrapper"&gt;&lt;a id="github-906d686b5baa7524e733ecf8217686ec" target="_blank" href="https://github.com/Killarexe/TDEngine" class="cursor-pointer"&gt;
+&lt;div
+class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
+&lt;img src="https://opengraph.githubassets.com/0/Killarexe/TDEngine" alt="GitHub Repository Thumbnail"
+class="nozoom mt-0 mb-0 w-full h-full object-cover"&gt;
+&lt;/div&gt;&lt;div
+class="w-full md:w-auto pt-3 p-5"&gt;
+&lt;div class="flex items-center"&gt;
+&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;"&gt;
+&lt;span class="relative block icon"&gt;
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"&gt;&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;/span&gt;
+&lt;div id="github-906d686b5baa7524e733ecf8217686ec-full_name"
+class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
+Killarexe/TDEngine
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p id="github-906d686b5baa7524e733ecf8217686ec-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
+A small CLI 3D engine made in Rust
+&lt;/p&gt;</description></item><item><title>Right click Chest Boat</title><link>https://killarexe.github.io/projects/right-click-chest-boat/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/right-click-chest-boat/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;A Really simple mod witch enable the player to &lt;strong&gt;Shift Right-Click&lt;/strong&gt; on a boat with a chest on the hand to make a Chest Boat.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This mod can work on server-side.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 class="relative group"&gt;Images
+&lt;div id="images" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#images" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;Here how this mod work:&lt;/p&gt;
+&lt;p&gt;
+&lt;figure&gt;
+&lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://cdn.modrinth.com/data/eV0rTOBa/images/b0098f2037a2838d1de113ce79d79f87951da8a1.gif" /&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 class="relative group"&gt;Repo
+&lt;div id="repo" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#repo" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;div class="github-card-wrapper"&gt;&lt;a id="github-c9c421446194dce84ed3611eb05c33fd" target="_blank" href="https://github.com/Killarexe/Right-Click-Chest-Boat" class="cursor-pointer"&gt;
+&lt;div
+class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
+&lt;img src="https://opengraph.githubassets.com/0/Killarexe/Right-Click-Chest-Boat" alt="GitHub Repository Thumbnail"
+class="nozoom mt-0 mb-0 w-full h-full object-cover"&gt;
+&lt;/div&gt;&lt;div
+class="w-full md:w-auto pt-3 p-5"&gt;
+&lt;div class="flex items-center"&gt;
+&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;"&gt;
+&lt;span class="relative block icon"&gt;
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"&gt;&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;/span&gt;
+&lt;div id="github-c9c421446194dce84ed3611eb05c33fd-full_name"
+class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
+Killarexe/Right-Click-Chest-Boat
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p id="github-c9c421446194dce84ed3611eb05c33fd-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
+Just a Minecraft Mod which enable the player to Shift+Right Click a boat with a Chest on his hand to make a Chest Boat
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/right-click-chest-boat/feature.gif"/></item><item><title>Glass 4.0</title><link>https://killarexe.github.io/projects/glass-4.0/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/glass-4.0/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;This is one of my crasyest project I&amp;rsquo;ve made.&lt;/p&gt;
+&lt;p&gt;Glass 4.0 is a video game library for SFML made by &lt;a href="https://www.youtube.com/@CodeNoodles" target="_blank"&gt;&lt;strong&gt;CodeNoodles&lt;/strong&gt;&lt;/a&gt; for his projects. Unfortunately, &lt;a href="https://github.com/OfficialCodeNoodles/Glass-4.0" target="_blank"&gt;&lt;strong&gt;the official repo&lt;/strong&gt;&lt;/a&gt; of this library include the header files and the libraries files for Windows only. So made this library open-source using only the header files. &lt;em&gt;(With the help of AI)&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Crystals</title><link>https://killarexe.github.io/projects/crystals/</link><pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/crystals/</guid><description>&lt;p&gt;
+&lt;figure&gt;
+&lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://raw.githubusercontent.com/Killarexe/Crystals/master/common/src/main/resources/assets/crystals/title.png" /&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;Crystals is a small mod avaliable for &lt;strong&gt;Forge and Fabric&lt;/strong&gt; witch adds new crystals witch generates on top of ores like: Redstone, Lapis, Emerald and Diamond.&lt;/p&gt;
+&lt;p&gt;Each crystal drops the corresponding mineral (e.g. diamond crystals drops diamonds).&lt;/p&gt;
+&lt;h1 class="relative group"&gt;Preview
+&lt;div id="preview" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#preview" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;
+&lt;figure&gt;
+&lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://cdn.modrinth.com/data/XiL4u4VY/images/194bb93ede1ea03f8ff1068fa29ed2579ad7736e.png" /&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/crystals/feature.png"/></item><item><title>Ball OS</title><link>https://killarexe.github.io/projects/ball_os/</link><pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/ball_os/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;Ball OS is a small bootloader OS witch makes a ball bouncing around.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s it.&lt;/p&gt;
+&lt;p&gt;Repo &lt;em&gt;(is you&amp;rsquo;re instrested)&lt;/em&gt;:&lt;/p&gt;
+&lt;div class="github-card-wrapper"&gt;&lt;a id="github-4d25246e636ce9cf42e01a0fe75d1130" target="_blank" href="https://github.com/Killarexe/Ball-OS" class="cursor-pointer"&gt;
+&lt;div
+class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
+&lt;img src="https://opengraph.githubassets.com/0/Killarexe/Ball-OS" alt="GitHub Repository Thumbnail"
+class="nozoom mt-0 mb-0 w-full h-full object-cover"&gt;
+&lt;/div&gt;&lt;div
+class="w-full md:w-auto pt-3 p-5"&gt;
+&lt;div class="flex items-center"&gt;
+&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;"&gt;
+&lt;span class="relative block icon"&gt;
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"&gt;&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;/span&gt;
+&lt;div id="github-4d25246e636ce9cf42e01a0fe75d1130-full_name"
+class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
+Killarexe/Ball-OS
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p id="github-4d25246e636ce9cf42e01a0fe75d1130-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
+A simple bootsector OS which makes a ball bounce inside the screen&amp;hellip;
+&lt;/p&gt;</description></item><item><title>Copper Extension</title><link>https://killarexe.github.io/projects/copper-extension/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/copper-extension/</guid><description>&lt;p&gt;
+&lt;figure&gt;
+&lt;img class="my-0 rounded-md" loading="lazy" alt="Copper Extension Banner" src="https://i.imgur.com/zsxTPUs.png" /&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;Copper Extension is a simple Minecraft Mod for &lt;strong&gt;Forge and Fabric&lt;/strong&gt; witch adds a few features to the copper set&amp;hellip;&lt;/p&gt;
+&lt;p&gt;The major feature is the rusty copper ingots. &lt;strong&gt;Copper ingots can now be oxidixed in the inventory or even when you dropped it. And also they can be waxed&lt;/strong&gt; using beehives or honeycombs&amp;hellip;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/copper-extension/feature.png"/></item><item><title>SPU</title><link>https://killarexe.github.io/projects/spu/</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/spu/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;The SPU &lt;em&gt;(or Simple Processing Unit)&lt;/em&gt; is a small custom 16-bit CPU I made inspired by the famous 6502.&lt;/p&gt;
+&lt;p&gt;The main goal of this CPU is to be the easiest CPU to use. The SPU have only &lt;strong&gt;16 instructions&lt;/strong&gt; as follows:&lt;/p&gt;
+&lt;h2 class="relative group"&gt;SPU Instruction Set
+&lt;div id="spu-instruction-set" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#spu-instruction-set" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Instruction&lt;/th&gt;
+&lt;th&gt;Argument&lt;/th&gt;
+&lt;th&gt;What it does&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ADD&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Do X + Y and return the value to X.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SUB&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Do X - Y and return the value to X.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AND&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Do X &amp;amp; Y and return the value to X.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OR&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Do X or Y and return the value to X.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;XOR&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Do X ^ Y and return the value to X.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NOT&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Inverse the X register.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LDX&lt;/td&gt;
+&lt;td&gt;im12/adr12&lt;/td&gt;
+&lt;td&gt;Change the value of X.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LDY&lt;/td&gt;
+&lt;td&gt;im12/adr12&lt;/td&gt;
+&lt;td&gt;Change the value of Y.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;STX&lt;/td&gt;
+&lt;td&gt;adr12&lt;/td&gt;
+&lt;td&gt;Store the X register to the ram address.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;STY&lt;/td&gt;
+&lt;td&gt;adr12&lt;/td&gt;
+&lt;td&gt;Store the Y register to the ram address.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;JMP&lt;/td&gt;
+&lt;td&gt;adr12&lt;/td&gt;
+&lt;td&gt;Jump to the label/address.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;JIC&lt;/td&gt;
+&lt;td&gt;adr12&lt;/td&gt;
+&lt;td&gt;Jump to the label/address if the carry flag is set.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;JIZ&lt;/td&gt;
+&lt;td&gt;adr12&lt;/td&gt;
+&lt;td&gt;Jump to the label/address if the zero flag is set.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HLT&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
+&lt;td&gt;Stops the proccessor.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;I made an Assembler in Rust and &lt;strong&gt;made the full CPU circuit in Logisim Evolution&lt;/strong&gt;. I didn&amp;rsquo;t made an emulator beacause I was too lazy&amp;hellip; But it was a cool project to make.&lt;/p&gt;</description></item><item><title>MSLang</title><link>https://killarexe.github.io/projects/mslang/</link><pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/mslang/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;MSLang &lt;em&gt;(MultiSign Language)&lt;/em&gt; is an iterpreted programming language using Java and the &lt;a href="https://craftinginterpreters.com/" target="_blank"&gt;&lt;strong&gt;Craft Interpreters&lt;/strong&gt;&lt;/a&gt; book.&lt;/p&gt;
+&lt;p&gt;The syntax is identic to the &lt;a href="https://craftinginterpreters.com/the-lox-language.html" target="_blank"&gt;&lt;strong&gt;Lox programming language&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 class="relative group"&gt;Repo
+&lt;div id="repo" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#repo" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;div class="github-card-wrapper"&gt;&lt;a id="github-509956c13a31844fa5357bdff342b970" target="_blank" href="https://github.com/Killarexe/MSLang" class="cursor-pointer"&gt;
+&lt;div
+class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
+&lt;img src="https://opengraph.githubassets.com/0/Killarexe/MSLang" alt="GitHub Repository Thumbnail"
+class="nozoom mt-0 mb-0 w-full h-full object-cover"&gt;
+&lt;/div&gt;&lt;div
+class="w-full md:w-auto pt-3 p-5"&gt;
+&lt;div class="flex items-center"&gt;
+&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;"&gt;
+&lt;span class="relative block icon"&gt;
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"&gt;&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;/span&gt;
+&lt;div id="github-509956c13a31844fa5357bdff342b970-full_name"
+class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
+Killarexe/MSLang
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p id="github-509956c13a31844fa5357bdff342b970-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
+MultiSign is a simple interpreted programming language based on the Lox programming language with small twists.
+&lt;/p&gt;</description></item><item><title>Donut 3DS</title><link>https://killarexe.github.io/projects/donut-3ds/</link><pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/donut-3ds/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;Donut3DS is a small Nintendo 3DS Homebrew witch is a port of &lt;a href="https://www.gamebrew.org/wiki/Wii_Donut" target="_blank"&gt;&lt;strong&gt;Wii Donut&lt;/strong&gt;&lt;/a&gt;. This app is just a spining 3D ASCII Donut with a background music called &lt;em&gt;Addiction&lt;/em&gt; by Jogeir Liljedahl.&lt;/p&gt;
+&lt;h2 class="relative group"&gt;Repo
+&lt;div id="repo" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#repo" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;div class="github-card-wrapper"&gt;&lt;a id="github-0e217db24b8b46adc9cebba50ed53148" target="_blank" href="https://github.com/Killarexe/Donut3DS" class="cursor-pointer"&gt;
+&lt;div
+class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
+&lt;img src="https://opengraph.githubassets.com/0/Killarexe/Donut3DS" alt="GitHub Repository Thumbnail"
+class="nozoom mt-0 mb-0 w-full h-full object-cover"&gt;
+&lt;/div&gt;&lt;div
+class="w-full md:w-auto pt-3 p-5"&gt;
+&lt;div class="flex items-center"&gt;
+&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;"&gt;
+&lt;span class="relative block icon"&gt;
+&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"&gt;&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+&lt;/span&gt;
+&lt;div id="github-0e217db24b8b46adc9cebba50ed53148-full_name"
+class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
+Killarexe/Donut3DS
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p id="github-0e217db24b8b46adc9cebba50ed53148-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
+A Printed 3D Donut for 3DS
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/donut-3ds/feature.png"/></item><item><title>Little Rage</title><link>https://killarexe.github.io/projects/little-rage/</link><pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/little-rage/</guid><description>&lt;p&gt;
+&lt;figure&gt;
+&lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://img.itch.zone/aW1nLzExNTI4MDM1LnBuZw==/original/vD9BIh.png" /&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Little Rage is one of my biggest project in my entire carieer.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This game is a Solo platformer game based on speedrun and race. Made with the Godot game engine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You can unlock skins, hats and more&lt;/strong&gt; by trying to make your best time in the levels. Also &lt;strong&gt;you can share and make levels with the integrated level editor in the game!&lt;/strong&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/little-rage/feature.png"/></item><item><title>Dimensional Expansion</title><link>https://killarexe.github.io/projects/dimensional-expansion/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/dimensional-expansion/</guid><description>&lt;p&gt;&lt;a href=""&gt;
+&lt;figure&gt;
+&lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://github.com/Killarexe/Dimensional-Expansion/raw/main/src/main/resources/logo.png" /&gt;
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h1 class="relative group"&gt;About:
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;Dimensional Expansion is a Minecraft mod avaliable on Forge(maybe Fabric later) who adds new tools and weapons for your gears, blocks and for builders, items with special poperities and the main feature that is currenly in progress is a new dimension with dungeons, villages and other structures.&lt;/p&gt;
+&lt;p&gt;The mod got currently an OST made by me(of course) that also working in progress but you can see some preview &lt;a href="https://soundcloud.com/killarexe" target="_blank"&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/dimensional-expansion/feature.png"/></item><item><title>Negative-N</title><link>https://killarexe.github.io/projects/negative-n/</link><pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/negative-n/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Negative-N is my first Minecraft Mod project.&lt;/strong&gt; And for this I used called &lt;a href="https://mcreator.net/" target="_blank"&gt;&lt;strong&gt;MCreator&lt;/strong&gt;&lt;/a&gt;. Witch is a software I still recommend to learn if you want to get into Minecraft Modding if you know nothing about coding.&lt;/p&gt;
+&lt;p&gt;This Minecraft mod adds a &lt;em&gt;new universe to Minecraft&lt;/em&gt; and this universe adds mobs, minerals, exploration, adventure, crafting, blocks with interesting properties, technology, decoration, structures, a new mode of survival, nostalgia and beauty and more!&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/negative-n/feature.png"/></item><item><title>Pokemon Mix</title><link>https://killarexe.github.io/projects/pokemon-mix/</link><pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/pokemon-mix/</guid><description>&lt;p&gt;&lt;strong&gt;Pokemon Mix is my first game I&amp;rsquo;ve ever made&lt;/strong&gt; using &lt;strong&gt;RPG Maker XP&lt;/strong&gt; and an old kit to make a Pokemon game called &lt;em&gt;Pokemon essencials&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve even made a launcher to execute different versions of this game. But around 6 months or 1 year later &lt;em&gt;(I don&amp;rsquo;t know exactly)&lt;/em&gt; I abandonned it beacause it was to big for a 1st project.&lt;/p&gt;
+&lt;p&gt;I have still the source code of this game but it&amp;rsquo;s soo broken that I don&amp;rsquo;t want to share it. But maybe I&amp;rsquo;ll do a post about it.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/pokemon-mix/feature.jpg"/></item><item><title>About</title><link>https://killarexe.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/about/</guid><description>&lt;h1 class="relative group"&gt;Who I&amp;rsquo;m I?
+&lt;div id="who-im-i" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#who-im-i" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;
+&lt;figure&gt;
+&lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://avatars.githubusercontent.com/u/69894974?v=4" /&gt;
+&lt;figcaption&gt;Photo by Mr.Tested &amp;amp; Niark&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I’m a Java, Godot and Rust dev. I do games/mods projects. I’m currently a french student. I do some Youtube videos.&lt;/p&gt;</description></item></channel></rss>
