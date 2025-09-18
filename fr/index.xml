@@ -32,17 +32,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#controls" aria-label="Ancre"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;A - Mettre / Enlever une cellule du cadrillage&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/game-of-life-gb/feature.png"/></item><item><title>TDEngine</title><link>https://killarexe.github.io/fr/projects/tdengine/</link><pubDate>Sat, 12 Oct 2024 16:19:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/tdengine/</guid><description>&lt;h1 class="relative group"&gt;A propos
-&lt;div id="a-propos" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#a-propos" aria-label="Ancre"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;p&gt;TDEngine est un petit programme de moteur de rendu 3D sur le termial/cmd fait en Rust.&lt;/p&gt;
-&lt;p&gt;J&amp;rsquo;ai appris récamment à propos de la &lt;em&gt;projection faible&lt;/em&gt; ou &lt;em&gt;weak projection&lt;/em&gt; en anglais, et j&amp;rsquo;ai essayé de le coder.&lt;/p&gt;
-&lt;p&gt;TDEngine is capable de charger des modèles .obj &lt;em&gt;(pas ceux avec beaucoups de triangles)&lt;/em&gt;, et tu peux tourner et zommer autour du modèle.&lt;/p&gt;</description></item><item><title>Right click Chest Boat</title><link>https://killarexe.github.io/fr/projects/right-click-chest-boat/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/right-click-chest-boat/</guid><description>&lt;h1 class="relative group"&gt;A propos
+&lt;p&gt;A - Mettre / Enlever une cellule du cadrillage&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/game-of-life-gb/feature.png"/></item><item><title>Right click Chest Boat</title><link>https://killarexe.github.io/fr/projects/right-click-chest-boat/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/right-click-chest-boat/</guid><description>&lt;h1 class="relative group"&gt;A propos
 &lt;div id="a-propos" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
@@ -101,38 +91,7 @@ style="text-decoration-line: none !important;" href="#screenshot" aria-label="An
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://cdn.modrinth.com/data/XiL4u4VY/images/194bb93ede1ea03f8ff1068fa29ed2579ad7736e.png" /&gt;
 &lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/crystals/feature.png"/></item><item><title>Ball OS</title><link>https://killarexe.github.io/fr/projects/ball_os/</link><pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/ball_os/</guid><description>&lt;h1 class="relative group"&gt;About
-&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#about" aria-label="Ancre"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;p&gt;Ball OS est un petit système d&amp;rsquo;exploitation qui fait juste rebondir une balle.&lt;/p&gt;
-&lt;p&gt;C&amp;rsquo;est tout.&lt;/p&gt;
-&lt;p&gt;Repo &lt;em&gt;(si vous êtez interésée)&lt;/em&gt;:&lt;/p&gt;
-&lt;div class="github-card-wrapper"&gt;&lt;a id="github-0f81023a9a8b32284c65f76b284abc6d" target="_blank" href="https://github.com/Killarexe/Ball-OS" class="cursor-pointer"&gt;
-&lt;div
-class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
-&lt;img src="https://opengraph.githubassets.com/0/Killarexe/Ball-OS" alt="GitHub Repository Thumbnail"
-class="nozoom mt-0 mb-0 w-full h-full object-cover"&gt;
-&lt;/div&gt;&lt;div
-class="w-full md:w-auto pt-3 p-5"&gt;
-&lt;div class="flex items-center"&gt;
-&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;"&gt;
-&lt;span class="relative block icon"&gt;
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"&gt;&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-&lt;/span&gt;
-&lt;div id="github-0f81023a9a8b32284c65f76b284abc6d-full_name"
-class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
-Killarexe/Ball-OS
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p id="github-0f81023a9a8b32284c65f76b284abc6d-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
-A simple bootsector OS which makes a ball bounce inside the screen&amp;hellip;
-&lt;/p&gt;</description></item><item><title>Copper Extension</title><link>https://killarexe.github.io/fr/projects/copper-extension/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/copper-extension/</guid><description>&lt;p&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/crystals/feature.png"/></item><item><title>Copper Extension</title><link>https://killarexe.github.io/fr/projects/copper-extension/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/copper-extension/</guid><description>&lt;p&gt;
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="Copper Extension Banner" src="https://i.imgur.com/zsxTPUs.png" /&gt;
 &lt;/figure&gt;
@@ -360,7 +319,7 @@ style="text-decoration-line: none !important;" href="#a-propos" aria-label="Ancr
 &lt;p&gt;&lt;strong&gt;Negative-N est mon premier projet de mod Minecraft.&lt;/strong&gt; Et pour faire ceci, j&amp;rsquo;ai utilisé un logiciel nommée &lt;a href="https://mcreator.net" target="_blank"&gt;&lt;strong&gt;MCreator&lt;/strong&gt;&lt;/a&gt;. Qui est un logiciel que je recommende si vous voulez apprendre le modding Minecraft, si vous savez rien à propos de code.&lt;/p&gt;
 &lt;p&gt;Ce mod Minecraft ajoute un &lt;em&gt;autre univers a Minecraft&lt;/em&gt;, et cet univers ajoute des mobs, des minerais, de l&amp;rsquo;exploration, de l&amp;rsquo;aventure, et craft des blocks de technologie, decoration, structures, et des propriètés intérésents.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/negative-n/feature.png"/></item><item><title>Pokemon Mix</title><link>https://killarexe.github.io/fr/projects/pokemon-mix/</link><pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/pokemon-mix/</guid><description>&lt;p&gt;&lt;strong&gt;Pokemon Mix est mon tout premier jeu que j&amp;rsquo;ai fait&lt;/strong&gt; avec &lt;strong&gt;RPG Maker XP&lt;/strong&gt; et un vieux kit de developpement de jeu Pokemon nommée &lt;em&gt;Pokemon essencials&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve even made a launcher to execute different versions of this game. But around 6 months or 1 year later &lt;em&gt;(I don&amp;rsquo;t know exactly)&lt;/em&gt; I abandonned it beacause it was to big for a 1st project.&lt;/p&gt;
-&lt;p&gt;I have still the source code of this game but it&amp;rsquo;s soo broken that I don&amp;rsquo;t want to share it. But maybe I&amp;rsquo;ll do a post about it.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/pokemon-mix/feature.jpg"/></item><item><title>A propos</title><link>https://killarexe.github.io/fr/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/about/</guid><description>&lt;h1 class="relative group"&gt;Qui je suis ?
+&lt;p&gt;I have still the source code of this game but it&amp;rsquo;s soo broken that I don&amp;rsquo;t want to share it. But maybe I&amp;rsquo;ll do a post about it.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/pokemon-mix/feature.jpg"/></item><item><title/><link>https://killarexe.github.io/fr/projects/smpl2fmp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/smpl2fmp/</guid><description/></item><item><title/><link>https://killarexe.github.io/fr/projects/tiny_walk_around_the_planet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/tiny_walk_around_the_planet/</guid><description/></item><item><title/><link>https://killarexe.github.io/fr/projects/towers_of_the_bane/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/projects/towers_of_the_bane/</guid><description/></item><item><title>A propos</title><link>https://killarexe.github.io/fr/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/fr/about/</guid><description>&lt;h1 class="relative group"&gt;Qui je suis ?
 &lt;div id="qui-je-suis-" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;

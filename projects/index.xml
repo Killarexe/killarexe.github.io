@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Killar.html</title><link>https://killarexe.github.io/projects/</link><description>Recent content in Projects on Killar.html</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Killar</copyright><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://killarexe.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Game of Life GB</title><link>https://killarexe.github.io/projects/game-of-life-gb/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/game-of-life-gb/</guid><description>&lt;h1 class="relative group"&gt;About
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Killar.html</title><link>https://killarexe.github.io/projects/</link><description>Recent content in Projects on Killar.html</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Killar</copyright><lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://killarexe.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Tiny walk around the planet</title><link>https://killarexe.github.io/projects/tiny_walk_around_the_planet/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/tiny_walk_around_the_planet/</guid><description/></item><item><title>smpl2fmp</title><link>https://killarexe.github.io/projects/smpl2fmp/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/smpl2fmp/</guid><description/></item><item><title>Game of Life GB</title><link>https://killarexe.github.io/projects/game-of-life-gb/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/game-of-life-gb/</guid><description>&lt;h1 class="relative group"&gt;About
 &lt;div id="about" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
@@ -8,70 +8,8 @@ style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"
 &lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Game of Life GB&lt;/strong&gt; is a port of &lt;a href="https://conwaylife.com/" target="_blank"&gt;Conway&amp;rsquo;s Game of Life&lt;/a&gt; for the Nintendo Game Boy using &lt;a href="https://github.com/gbdk-2020/gbdk-2020" target="_blank"&gt;GBDK&lt;/a&gt; and the &lt;a href="https://github.com/SuperDisk/hUGEDriver" target="_blank"&gt;hUGEDriver&lt;/a&gt; for the music.&lt;/p&gt;
 &lt;p&gt;This game gives a 20x18 recursive cell grid with the ability to pause/unpause, edit, clear grid and randomize grid.&lt;/p&gt;
-&lt;div id="gallery-42b5689b76332fd283e515bc3edb8013" class="gallery"&gt;
-&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/feature.png" class="grid-w50" /&gt;
-&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/gallery/1.png" class="grid-w50" /&gt;
-&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/gallery/2.gif" class="grid-w50" /&gt;
-&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/gallery/3.gif" class="grid-w50" /&gt;
-&lt;img src="https://killarexe.github.io/projects/game-of-life-gb/gallery/4.gif" class="grid-w50" /&gt;
-&lt;/div&gt;
-&lt;h2 class="relative group"&gt;Itch.io
-&lt;div id="itchio" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#itchio" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;iframe frameborder="0" src="https://itch.io/embed/3245115?border_width=5&amp;amp;bg_color=284020&amp;amp;fg_color=88a048&amp;amp;link_color=445434&amp;amp;border_color=486830" width="560" height="175"&gt;&lt;a href="https://killarexe.itch.io/game-of-life-gb"&gt;Game of Life GB by Killar.exe&lt;/a&gt;&lt;/iframe&gt;
-&lt;h2 class="relative group"&gt;Controls
-&lt;div id="controls" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#controls" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;A - Put / Remove cell from grid&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/game-of-life-gb/feature.png"/></item><item><title>TDEngine</title><link>https://killarexe.github.io/projects/tdengine/</link><pubDate>Sat, 12 Oct 2024 16:19:00 +0000</pubDate><guid>https://killarexe.github.io/projects/tdengine/</guid><description>&lt;h1 class="relative group"&gt;About
-&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;p&gt;TDEngine is a small CLI 3D engine for the terminal in Rust.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve learn recently about &lt;em&gt;weak projection&lt;/em&gt; and I tried to code it.&lt;/p&gt;
-&lt;p&gt;TDEngine is able to load .obj files &lt;em&gt;(not ones with too many triangles)&lt;/em&gt;, and you can turn and zoom around the object.&lt;/p&gt;
-&lt;h1 class="relative group"&gt;Repo
-&lt;div id="repo" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#repo" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;div class="github-card-wrapper"&gt;&lt;a id="github-906d686b5baa7524e733ecf8217686ec" target="_blank" href="https://github.com/Killarexe/TDEngine" class="cursor-pointer"&gt;
-&lt;div
-class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
-&lt;img src="https://opengraph.githubassets.com/0/Killarexe/TDEngine" alt="GitHub Repository Thumbnail"
-class="nozoom mt-0 mb-0 w-full h-full object-cover"&gt;
-&lt;/div&gt;&lt;div
-class="w-full md:w-auto pt-3 p-5"&gt;
-&lt;div class="flex items-center"&gt;
-&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;"&gt;
-&lt;span class="relative block icon"&gt;
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"&gt;&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-&lt;/span&gt;
-&lt;div id="github-906d686b5baa7524e733ecf8217686ec-full_name"
-class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
-Killarexe/TDEngine
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p id="github-906d686b5baa7524e733ecf8217686ec-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
-A small CLI 3D engine made in Rust
-&lt;/p&gt;</description></item><item><title>Right click Chest Boat</title><link>https://killarexe.github.io/projects/right-click-chest-boat/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/right-click-chest-boat/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;p&gt;Thanks to this project, I&amp;rsquo;ve learned how to make games structures and hardware based optimizations.
+And I always wanted to port something for the Game Boy.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/game-of-life-gb/feature.png"/></item><item><title>Towers of the Bane</title><link>https://killarexe.github.io/projects/towers_of_the_bane/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/towers_of_the_bane/</guid><description/></item><item><title>Right click Chest Boat</title><link>https://killarexe.github.io/projects/right-click-chest-boat/</link><pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/right-click-chest-boat/</guid><description>&lt;h1 class="relative group"&gt;About
 &lt;div id="about" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
@@ -146,51 +84,7 @@ style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"
 &lt;/span&gt;
 &lt;/h1&gt;
 &lt;p&gt;Crystals is a small mod avaliable for &lt;strong&gt;Forge and Fabric&lt;/strong&gt; witch adds new crystals witch generates on top of ores like: Redstone, Lapis, Emerald and Diamond.&lt;/p&gt;
-&lt;p&gt;Each crystal drops the corresponding mineral (e.g. diamond crystals drops diamonds).&lt;/p&gt;
-&lt;h1 class="relative group"&gt;Preview
-&lt;div id="preview" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#preview" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;p&gt;
-&lt;figure&gt;
-&lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://cdn.modrinth.com/data/XiL4u4VY/images/194bb93ede1ea03f8ff1068fa29ed2579ad7736e.png" /&gt;
-&lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/crystals/feature.png"/></item><item><title>Ball OS</title><link>https://killarexe.github.io/projects/ball_os/</link><pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/ball_os/</guid><description>&lt;h1 class="relative group"&gt;About
-&lt;div id="about" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;p&gt;Ball OS is a small bootloader OS witch makes a ball bouncing around.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s it.&lt;/p&gt;
-&lt;p&gt;Repo &lt;em&gt;(is you&amp;rsquo;re instrested)&lt;/em&gt;:&lt;/p&gt;
-&lt;div class="github-card-wrapper"&gt;&lt;a id="github-4d25246e636ce9cf42e01a0fe75d1130" target="_blank" href="https://github.com/Killarexe/Ball-OS" class="cursor-pointer"&gt;
-&lt;div
-class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"&gt;&lt;div class="w-full nozoom"&gt;
-&lt;img src="https://opengraph.githubassets.com/0/Killarexe/Ball-OS" alt="GitHub Repository Thumbnail"
-class="nozoom mt-0 mb-0 w-full h-full object-cover"&gt;
-&lt;/div&gt;&lt;div
-class="w-full md:w-auto pt-3 p-5"&gt;
-&lt;div class="flex items-center"&gt;
-&lt;span class="text-2xl text-neutral-800 dark:text-neutral" style="margin-right:10px;"&gt;
-&lt;span class="relative block icon"&gt;
-&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"&gt;&lt;path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-&lt;/span&gt;
-&lt;div id="github-4d25246e636ce9cf42e01a0fe75d1130-full_name"
-class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"&gt;
-Killarexe/Ball-OS
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p id="github-4d25246e636ce9cf42e01a0fe75d1130-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral"&gt;
-A simple bootsector OS which makes a ball bounce inside the screen&amp;hellip;
-&lt;/p&gt;</description></item><item><title>Copper Extension</title><link>https://killarexe.github.io/projects/copper-extension/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/copper-extension/</guid><description>&lt;p&gt;
+&lt;p&gt;I wanted to create an other Minecraft mod but the mod needed to not affect that much the gameplay. So I thought why not add some useful decorations to generated ores.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/crystals/feature.png"/></item><item><title>Copper Extension</title><link>https://killarexe.github.io/projects/copper-extension/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/copper-extension/</guid><description>&lt;p&gt;
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="Copper Extension Banner" src="https://i.imgur.com/zsxTPUs.png" /&gt;
 &lt;/figure&gt;
@@ -204,6 +98,7 @@ style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;p&gt;Copper Extension is a simple Minecraft Mod for &lt;strong&gt;Forge and Fabric&lt;/strong&gt; witch adds a few features to the copper set&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I thought that Minecraft didn&amp;rsquo;t add to much features for the copper. So that&amp;rsquo;s why I&amp;rsquo;ve made this mod.&lt;/p&gt;
 &lt;p&gt;The major feature is the rusty copper ingots. &lt;strong&gt;Copper ingots can now be oxidixed in the inventory or even when you dropped it. And also they can be waxed&lt;/strong&gt; using beehives or honeycombs&amp;hellip;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/copper-extension/feature.png"/></item><item><title>SPU</title><link>https://killarexe.github.io/projects/spu/</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/spu/</guid><description>&lt;h1 class="relative group"&gt;About
 &lt;div id="about" class="anchor"&gt;&lt;/div&gt;
 &lt;span
@@ -350,6 +245,7 @@ style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"
 &lt;/span&gt;
 &lt;/h1&gt;
 &lt;p&gt;Donut3DS is a small Nintendo 3DS Homebrew witch is a port of &lt;a href="https://www.gamebrew.org/wiki/Wii_Donut" target="_blank"&gt;&lt;strong&gt;Wii Donut&lt;/strong&gt;&lt;/a&gt;. This app is just a spining 3D ASCII Donut with a background music called &lt;em&gt;Addiction&lt;/em&gt; by Jogeir Liljedahl.&lt;/p&gt;
+&lt;p&gt;I made this project just because I wanted to learn low level programming and developping on specialized devices like the Nintendo 3DS.&lt;/p&gt;
 &lt;h2 class="relative group"&gt;Repo
 &lt;div id="repo" class="anchor"&gt;&lt;/div&gt;
 &lt;span
@@ -407,7 +303,7 @@ style="text-decoration-line: none !important;" href="#about" aria-label="Anchor"
 &lt;/span&gt;
 &lt;/h1&gt;
 &lt;p&gt;Dimensional Expansion is a Minecraft mod avaliable on Forge(maybe Fabric later) who adds new tools and weapons for your gears, blocks and for builders, items with special poperities and the main feature that is currenly in progress is a new dimension with dungeons, villages and other structures.&lt;/p&gt;
-&lt;p&gt;The mod got currently an OST made by me(of course) that also working in progress but you can see some preview &lt;a href="https://soundcloud.com/killarexe" target="_blank"&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/dimensional-expansion/feature.png"/></item><item><title>Negative-N</title><link>https://killarexe.github.io/projects/negative-n/</link><pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/negative-n/</guid><description>&lt;h1 class="relative group"&gt;About
+&lt;p&gt;This is my second Minecraft mod. And I wanted to really learn Minecraft modding.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://killarexe.github.io/projects/dimensional-expansion/feature.png"/></item><item><title>Negative-N</title><link>https://killarexe.github.io/projects/negative-n/</link><pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate><guid>https://killarexe.github.io/projects/negative-n/</guid><description>&lt;h1 class="relative group"&gt;About
 &lt;div id="about" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
