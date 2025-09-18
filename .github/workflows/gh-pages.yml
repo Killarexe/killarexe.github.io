@@ -8,30 +8,29 @@ on:
       - master
 
 jobs:
-  build_and_deploy_hugo_site:
-    runs-on: ubuntu-latest
-    name: Build and deploy Hugo site
-
+  build-deploy:
+    runs-on: ubuntu-24.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.148.2'
-    
-    - name: Checkout repo on source_branch
-      uses: actions/checkout@v2
-        
-    - name: Build site and push to release branch
-      uses: aormsby/hugo-deploy-to-pages@v2.1
-      id: build_step  # <<for outputs>>
-      with:
-        source_branch: 'master'
-        release_branch: 'gh-pages'
-        # submodule_release_branch: 'subbed' <<only provide if you are publishing to directory with git submodule>>
-        # full_rebuild: true
-        hugo_publish_directory: './public'
-        # hugo_build_options: '-D --minify --ignoreCache' <<hugo build cis customizable>>
-        commit_message: "Built/update website via action."
-        # test_mode: true <<enable to run a few verification tests before your first live run>>
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
 
-        # <<lots of other options!>>
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
